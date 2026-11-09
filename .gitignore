@@ -1,0 +1,16 @@
+# Archivos temporales de los scripts
+scripts/*.json
+*.log
+
+# Script para subir el repositorio (no forma parte del proyecto)
+subir.ps1
+
+# Compilación
+target/
+
+# Sistema / editores
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+~$*
